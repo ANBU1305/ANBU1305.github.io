@@ -3,7 +3,7 @@ font-size:36px;
 margin: auto;
   width: 83%;
   padding: 90px;
-  font-style:italic ;
+  font-style:bold ;
   color:black;
   
 }
@@ -20,6 +20,9 @@ margin: auto;
     background-size: auto;
     background-attachment: fixed;
     overflow: hidden;   
+}
+.contact{
+  padding:85px;
 }
 .about{
     font-size:21px;
@@ -182,9 +185,6 @@ h1,h2,h3{
   100%{
     width: 100%;
   }
-}
-.contact{
-  padding:85px;
 }
 
 .how-cont{
