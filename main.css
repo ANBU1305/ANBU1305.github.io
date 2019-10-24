@@ -183,6 +183,9 @@ h1,h2,h3{
     width: 100%;
   }
 }
+.contact{
+  padding:85px;
+}
 
 .how-cont{
   width: calc(100% - 40px);
